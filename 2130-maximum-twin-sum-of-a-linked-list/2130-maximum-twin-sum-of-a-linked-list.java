@@ -25,8 +25,9 @@ class Solution {
         return res;
     }
 }
-//done
 
+
+//OR
 
 /**
  * Definition for singly-linked list.
@@ -38,25 +39,25 @@ class Solution {
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-// class Solution {
-//     public int pairSum(ListNode head) {
-//          Stack<Integer> st = new Stack<>();
-//         ListNode temp=head;
-//         while(temp!= null){
-//             st.push(temp.val);
-//             temp=temp.next;
-//         }
-//         int n = st.size();
-//         int res=0;
-//         ListNode tem=head;
-//         for(int i=0;i<n/2;i++){
-//             int sum= tem.val +st.peek();
-//             res=Math.max(res, sum);
-//             tem=tem.next;
-//             st.pop();
-//         }
-//         return res;
-//     }
-// }
-//done
+class Solution {
+    public int pairSum(ListNode head) {
+         Stack<Integer> st = new Stack<>();
+        ListNode temp=head;
+        while(temp!= null){
+            st.push(temp.val);
+            temp=temp.next;
+        }
+        int n = st.size();
+        int res=0;
+        ListNode tem=head;
+        for(int i=0;i<n/2;i++){
+            int sum= tem.val +st.peek();
+            res=Math.max(res, sum);
+            tem=tem.next;
+            st.pop();
+        }
+        return res;
+    }
+}
+done
 

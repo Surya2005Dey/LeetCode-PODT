@@ -8,7 +8,7 @@ class Solution {
 
     }
 }
-
+//OR
 class Solution {
     public double angleClock(int hour, int minutes) {
         double min=minutes;

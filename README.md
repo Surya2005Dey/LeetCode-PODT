@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1732-find-the-highest-altitude) |
+## Math
+|  |
+| ------- |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1344-angle-between-hands-of-a-clock) |
 <!---LeetCode Topics End-->

@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Greedy
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Divide and Conquer
 |  |
 | ------- |

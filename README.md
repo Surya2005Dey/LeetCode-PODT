@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->

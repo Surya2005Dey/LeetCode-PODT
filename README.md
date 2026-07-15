@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

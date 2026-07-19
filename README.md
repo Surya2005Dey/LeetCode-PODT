@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Divide and Conquer
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->

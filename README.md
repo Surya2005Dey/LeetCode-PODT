@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0316-remove-duplicate-letters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->

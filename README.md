@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |

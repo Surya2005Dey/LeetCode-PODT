@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sorting
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer

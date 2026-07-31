@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0119-pascals-triangle-ii) |
 | [0189-rotate-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1260-shift-2d-grid) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0119-pascals-triangle-ii) |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
 ## Enumeration
 |  |

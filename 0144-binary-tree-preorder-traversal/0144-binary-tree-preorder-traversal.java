@@ -44,6 +44,10 @@ class Solution {
 // }
 
 
+
+// // preorder>> root->left->right
+// // root->right->left in stack that push the order root-> left->right   because of LIFO rule
+
 // class Solution {
 //     public List<Integer> preorderTraversal(TreeNode root) {
 //         List<Integer> res= new ArrayList<>();

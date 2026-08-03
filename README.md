@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -259,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1406-stone-game-iii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

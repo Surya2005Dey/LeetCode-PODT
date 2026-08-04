@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0171-excel-sheet-column-number) |
 | [0316-remove-duplicate-letters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |

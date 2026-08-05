@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |

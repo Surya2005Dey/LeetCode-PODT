@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## String Matching
 |  |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |

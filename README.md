@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0228-summary-ranges) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |

@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0231-power-of-two) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
 | ------- |

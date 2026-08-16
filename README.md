@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3731-find-missing-elements) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -296,16 +300,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -334,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0232-implement-queue-using-stacks) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->

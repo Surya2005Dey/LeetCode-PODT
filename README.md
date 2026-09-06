@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0115-distinct-subsequences](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0115-distinct-subsequences) |
 | [0168-excel-sheet-column-title](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0205-isomorphic-strings) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |

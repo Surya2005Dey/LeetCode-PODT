@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0278-first-bad-version) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -388,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0257-binary-tree-paths) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

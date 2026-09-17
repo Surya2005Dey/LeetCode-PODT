@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 | [1189-maximum-number-of-balloons](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
@@ -259,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

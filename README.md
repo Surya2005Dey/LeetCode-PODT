@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0316-remove-duplicate-letters) |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0257-binary-tree-paths) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -370,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2029-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0877-stone-game) |

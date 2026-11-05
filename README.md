@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1563-stone-game-v) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1833-maximum-ice-cream-bars) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/0278-first-bad-version) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

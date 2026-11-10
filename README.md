@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1563-stone-game-v) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3693-climbing-stairs-ii) |
 ## Enumeration
 |  |
 | ------- |

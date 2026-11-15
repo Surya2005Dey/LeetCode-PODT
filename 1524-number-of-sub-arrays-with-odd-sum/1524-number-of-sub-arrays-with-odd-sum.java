@@ -1,3 +1,4 @@
+//TIME LIMIT EXCEDED
 // class Solution {
 //     public int numOfSubarrays(int[] arr) {
 //         int count=0;
@@ -14,6 +15,7 @@
 //     }
 // }
 
+//USING PREFIX SUM 
 // class Solution {
 //     public int numOfSubarrays(int[] arr) {
 //         int M=(int)1e9+7;
@@ -39,6 +41,7 @@
 //     }
 // }
 
+// OPTIMAL SOLUTION WITH O(1) SPACE COMPLEXITY
 class Solution {
     public int numOfSubarrays(int[] arr) {
         int M=(int)1e9+7;

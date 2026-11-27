@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/1563-stone-game-v) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3693-climbing-stairs-ii](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Surya2005Dey/LeetCode-PODT/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
